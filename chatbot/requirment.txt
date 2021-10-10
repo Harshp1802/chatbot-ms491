@@ -1,6 +1,0 @@
-tensorflow
-matplotlib
-numpy
-flask
-transformers
-torch
